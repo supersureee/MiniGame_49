@@ -1,6 +1,5 @@
 # MiniGame_49
 控制台小游戏 Demo，用于展示分支管理与冲突解决
-# MiniGameDemo_23
 
 ## 项目简介
 简易控制台小游戏 Demo，用于展示 GitHub 协作流程（分支/PR/冲突/issue）。
