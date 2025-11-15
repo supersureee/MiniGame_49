@@ -20,36 +20,22 @@ GCC编译器
 Windows/Linux/Mac系统
 
 编译运行
+
 bash
-
-复制
-
-下载
-# 进入源码目录
 cd src
-
-# 编译项目
 gcc main.c game.c -o minigame
-
-# 运行游戏
 ./minigame
+
 操作说明
-text
 
-复制
-
-下载
 W - 向上移动
 A - 向左移动  
 S - 向下移动
 D - 向右移动
 Q - 退出游戏
+
 📁 项目结构
-text
 
-复制
-
-下载
 MiniGame_49/
 ├── src/
 │   ├── main.c          # 程序入口
